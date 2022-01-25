@@ -1,0 +1,25 @@
+*
+.counter{
+    background-color: aqua;
+
+}
+button{
+    width: 50%;
+    background-color: rgb(168, 38, 118);
+    color: rgb(23, 13, 105);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#num{
+    width: 100%;
+    background-color: rgb(136, 120, 130);
+    color: rgb(23, 13, 105);
+    padding: 10px 20px;
+    margin: 1px 0;
+    border:none;
+    border-radius: 1px;
+    cursor: pointer;   
+}
